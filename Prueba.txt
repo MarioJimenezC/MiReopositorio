@@ -1,1 +1,7 @@
-Probando
+#include <iostream>
+
+using namespace std;
+
+int main(){
+  cout<<"Es una prueba de esto"<<endl;
+}
